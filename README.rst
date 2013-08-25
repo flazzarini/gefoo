@@ -1,9 +1,9 @@
 gefoo
 =====
 
-These are the ''pelican_'' source files for my blog General-Foo_. Use this repository as an example on how to get ''pelican_'' working.
+These are the **pelican_** source files for my blog **General-Foo_**. Use this repository as an example on how to get **pelican_** working.
 
-To get started make sure you have ''fabric_'' installed and execute the following to create a development environment.
+To get started make sure you have **fabric_** installed and execute the following to create a development environment.
 
 ::
 
