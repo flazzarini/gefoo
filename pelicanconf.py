@@ -14,7 +14,7 @@ STATIC_PATHS = ['images', 'uploads']
 PLUGINS = ['pelican_youtube']
 
 # Feed generation is usually not desired when developing
-FEED_DOMAIN = 'http://phynix.homelinux.org/gefoo/'
+FEED_DOMAIN = 'http://www.gefoo.org'
 FEED_RSS = ('feeds/feed.rss')
 
 # Blogroll
