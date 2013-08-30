@@ -1,5 +1,6 @@
 /* Styling for Nav bar. Bg color, link color etc */
 .navbar-inner {
+  height: 80px;
   padding-left: 20px;
   padding-right: 20px;
   background-color: #2E435E;
@@ -19,9 +20,16 @@
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
 }
 
+.navbar .brand {
+    padding: 5px 20px 0px;
+    font-size: 28px;
+}
+
 .navbar .nav > li > a { color: #49AFCD; }
 .navbar .divider-vertical { border-right: 1px solid #4D4D4D; }
 .navbar { margin-bottom: 4em; } 
+.navbar .brand { float:none; }
+.navbar small { color: #F5F5F5; }
 
 
 /* Styling for elements */
