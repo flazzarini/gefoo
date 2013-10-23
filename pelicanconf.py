@@ -34,5 +34,8 @@ SOCIAL = (('Linkedin', 'http://lu.linkedin.com/pub/frank-lazzarini/1a/a30/112'),
 
 DEFAULT_PAGINATION = 10
 
+# Google analytics
+GOOGLE_ANALYTICS='UA-45118903-1'
+
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
