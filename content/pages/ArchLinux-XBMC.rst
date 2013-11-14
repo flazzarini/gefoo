@@ -36,4 +36,4 @@ Virtualbox Image Details
 
 .. _ArchLinux: http://www.archlinux.org
 .. _XBMC: http://www.xbmc.org
-.. _here: /static/uploads/archlinux-XBMC.ova.zip
+.. _here: http://upload.gefoo.org/archxbmc/archlinux-XBMC.ova.zip
