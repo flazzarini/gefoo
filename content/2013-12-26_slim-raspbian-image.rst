@@ -19,8 +19,9 @@ Xorg server, fonts, X Applications, LXDE and so forth. To slim/trim down your
       xarchiver xauth xkb-data xinit lightdm lightdm-gtk-greeter consolekit \
       libx{composite,cb,cursor,damage,dmcp,ext,font,ft,i,inerama,kbfile,klavier,mu,pm,randr,render,res,t,xf86}* \
       lxde* lx{input,menu-data,panel,polkit,randr,session,session-edit,shortcut,task,terminal} \
-      obconf openbox gtk* libgtk* python-pygame python-tk python3-tk scratch tsconf omxplayer squeak-vm penguinspuzzle \
-      mupdf netsurf-gtk menu-xdg
+      obconf openbox gtk* libgtk* python-pygame python-tk python3-tk scratch tsconf omxplayer squeak-vm \
+      penguinspuzzle mupdf netsurf-gtk menu-xdg
+
     sudo apt-get autoremove && sudo apt-get autoclean
 
 
