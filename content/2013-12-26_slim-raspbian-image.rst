@@ -9,8 +9,9 @@ Slim raspbian default Raspberry-pi Image
 
 The 'default' Raspberry-Pi image `Raspbian` comes with a lot of overhead which
 is mostly not wanted at least in my case. Here is a little aptitude line which
-gets rid of all the stuff we don't want on our little embedded system like 
-Xorg server, fonts, X Applications, LXDE and so forth.
+gets rid of all the stuff we don't want on our little embedded system like
+Xorg server, fonts, X Applications, LXDE and so forth. To slim/trim down your
+`Raspbian` installation.
 
   ::
 
